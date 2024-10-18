@@ -10,7 +10,8 @@ export default function Price({ price, locale, currency }) {
   return <span>{formatPrice()}</span>;
 }
 
+// Set default props for Indian currency format
 Price.defaultProps = {
-  locale: 'en-US',
-  currency: 'USD',
+  locale: 'en-IN',  // Set default locale to Indian
+  currency: 'INR',  // Set default currency to INR
 };
