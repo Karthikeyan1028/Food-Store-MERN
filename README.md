@@ -70,7 +70,7 @@ This project is a MERN (MongoDB, Express.js, React.js, Node.js) based web applic
    *Screenshot of the Home Page*
    
 2. Adding item to Cart
-
+    ![alt text](image-1.png)
 
    *Screenshot of the Selected Food*
 
@@ -83,7 +83,7 @@ This project is a MERN (MongoDB, Express.js, React.js, Node.js) based web applic
    *Screenshot of the Card Page *
    
 5. Order Form 
-   ![image](https://github.com/Prakash-V-S/Food-Store-Using-MERN/assets/141955456/2f22d765-1d6e-449b-9609-6b6da2450309)
+  
    *Screenshot of the Order Form *
 
 ## Setup
@@ -98,4 +98,4 @@ To run this project, you need to have MongoDB, Node.js, and npm installed.
 
 ## Feedback
 
-If you have any feedback or questions, feel free to contact us at prakashvs.official@gmail.com.
+If you have any feedback or questions, feel free to contact us at karthikeyan@gmail.com.
