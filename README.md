@@ -82,7 +82,7 @@ This project is a MERN (MongoDB, Express.js, React.js, Node.js) based web applic
   ![image](https://github.com/user-attachments/assets/02c96c30-b972-405c-b265-fca8e4446011)
    *Screenshot of the Cart Page *
    
-1. Order Form 
+5. Order Form 
   
 ![image](https://github.com/user-attachments/assets/9dfa1fbd-73ba-4cf5-b984-a75a39881515)
    *Screenshot of the Order Form *
