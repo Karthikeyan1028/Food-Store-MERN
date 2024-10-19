@@ -15,7 +15,7 @@ export default function PaypalButtons({ order }) {
     <PayPalScriptProvider
       options={{
         clientId:
-          'AUWcnaHjOUoXVI3IjLpMkM0Kk0Sigq1CUAWP-finHI950yQD2Qni8XPkRbs76Q-_JIT8hJFhKD8YVy3u',
+          'AWZ-_gBtj0GBWwtztb3TejeKeeWTovbFwLxGFKtNJmH4CEp2I_4n9KV5AXarA1HFnMQJ79BxIngQqB3r',
       }}
     >
       <Buttons order={order} />
@@ -37,7 +37,7 @@ function Buttons({ order }) {
       purchase_units: [
         {
           amount: {
-            currency_code: 'USD',
+            currency_code: 'INR',
             value: order.totalPrice,
           },
         },
