@@ -75,14 +75,15 @@ This project is a MERN (MongoDB, Express.js, React.js, Node.js) based web applic
    *Screenshot of the Selected Food*
 
 3. Admin Dashboard
-   
+   ![image](https://github.com/user-attachments/assets/fb9a8e9a-8287-4c00-9e54-19f5ba0bc120)
+
    *Screenshot of the Admin Dashboard*
 
-4. Card Page 
+5. Card Page 
   
    *Screenshot of the Card Page *
    
-5. Order Form 
+6. Order Form 
   
    *Screenshot of the Order Form *
 
