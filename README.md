@@ -67,23 +67,23 @@ This project is a MERN (MongoDB, Express.js, React.js, Node.js) based web applic
 ## Screenshots
 
 1. Home Page
-   ![image](https://github.com/user-attachments/assets/6265ab4f-8d24-4f92-a748-39c3f65d727b)
+   ![image](https://github.com/user-attachments/assets/74e1e598-7320-4ea5-8b9c-0338b5987d0b)
    *Screenshot of the Home Page*
    
 2. Adding item to Cart
-    ![image](https://github.com/user-attachments/assets/64abea21-88e8-4bd3-b56c-d51533f48824)
+    ![image](https://github.com/user-attachments/assets/1fa782c1-c947-446d-8933-e59ad9587f5d)
    *Screenshot of the Selected Food*
 
 3. Admin Dashboard
-    ![image](https://github.com/user-attachments/assets/fb9a8e9a-8287-4c00-9e54-19f5ba0bc120)
+    ![image](https://github.com/user-attachments/assets/6e9ad108-41dc-4291-84fd-7735f779ad91)
    *Screenshot of the Admin Dashboard*
 
 4. Cart Page 
-    ![image](https://github.com/user-attachments/assets/02c96c30-b972-405c-b265-fca8e4446011)
+    ![image](https://github.com/user-attachments/assets/a63f0c01-e992-4fec-b8aa-9e595a4b1aef)
    *Screenshot of the Cart Page *
  
 5. Order Form 
-    ![image](https://github.com/user-attachments/assets/9dfa1fbd-73ba-4cf5-b984-a75a39881515)
+    ![image](https://github.com/user-attachments/assets/b1dcf68c-fa5f-491c-a6fc-de86ec359484)
    *Screenshot of the Order Form *
 
 
