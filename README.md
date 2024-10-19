@@ -5,7 +5,8 @@ This project is a MERN (MongoDB, Express.js, React.js, Node.js) based web applic
 ## Admin Access
 
 - **Email:** admin@gmail.com
-- **Password:** 12341234
+- **Password:** 12349876
+- **NOTE:** For payment purpose Paypal account is necessary, I have used paypal sandbox account for development purpose
 
 ## Features
 
@@ -66,35 +67,25 @@ This project is a MERN (MongoDB, Express.js, React.js, Node.js) based web applic
 ## Screenshots
 
 1. Home Page
-   ![image](![alt text](image.png))
+   ![image](https://github.com/user-attachments/assets/6265ab4f-8d24-4f92-a748-39c3f65d727b)
    *Screenshot of the Home Page*
    
 2. Adding item to Cart
-    ![alt text](image-1.png)
-
+    ![image](https://github.com/user-attachments/assets/64abea21-88e8-4bd3-b56c-d51533f48824)
    *Screenshot of the Selected Food*
 
 3. Admin Dashboard
-   
-
+    ![image](https://github.com/user-attachments/assets/fb9a8e9a-8287-4c00-9e54-19f5ba0bc120)
    *Screenshot of the Admin Dashboard*
 
-5. Card Page 
-  
-   *Screenshot of the Card Page *
-   
-6. Order Form 
-  
+4. Cart Page 
+    ![image](https://github.com/user-attachments/assets/02c96c30-b972-405c-b265-fca8e4446011)
+   *Screenshot of the Cart Page *
+ 
+5. Order Form 
+    ![image](https://github.com/user-attachments/assets/9dfa1fbd-73ba-4cf5-b984-a75a39881515)
    *Screenshot of the Order Form *
 
-## Setup
-
-To run this project, you need to have MongoDB, Node.js, and npm installed.
-
-1. Clone the repository.
-2. Navigate to the project directory.
-3. Install dependencies using `npm install`.
-4. Start the server using `npm start`.
 
 
 ## Feedback
