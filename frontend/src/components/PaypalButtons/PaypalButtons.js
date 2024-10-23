@@ -15,7 +15,7 @@ export default function PaypalButtons({ order }) {
     <PayPalScriptProvider
       options={{
         clientId:
-          'AWZ-_gBtj0GBWwtztb3TejeKeeWTovbFwLxGFKtNJmH4CEp2I_4n9KV5AXarA1HFnMQJ79BxIngQqB3r',
+          'AUWcnaHjOUoXVI3IjLpMkM0Kk0Sigq1CUAWP-finHI950yQD2Qni8XPkRbs76Q-_JIT8hJFhKD8YVy3u',
       }}
     >
       <Buttons order={order} />
